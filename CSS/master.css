@@ -50,7 +50,7 @@ p {
   padding-top: 12.5rem;
   color: #66BFBF;
   position: relative;
-  background-color: #EDB;
+  background-color:#EAF6F6;
 }
 
 .middlecontainer {
@@ -89,7 +89,6 @@ p {
   font-size: 2rem;
 }
 .footer-linktext:hover {
- background-color: #30e3cb;
  color: #e4f9f5;
 }
 .mountain {
