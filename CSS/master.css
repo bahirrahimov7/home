@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  color: #40514E;
+  font-size: 1rem;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+footer {
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  height: 10rem;
+  color: #EAF6F6;
+  padding-top: 3rem;
+}
+#profile {
+  border-radius: 50%;
+}
+hr {
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin: 100px auto;
+  height: 2px;
+  width: 5%;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 2.3rem;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+p {
+  line-height: 2;
+  font-weight: normal;
+}
+.topcontainer {
+  padding-top: 12.5rem;
+  color: #66BFBF;
+  position: relative;
+  background-color: #EDB;
+}
+
+.middlecontainer {
+  margin: 100px 0;
+
+}
+
+.bottomcontainer {
+
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 5rem;
+}
+.footer-link {
+  color: #11999E;
+  margin: 3rem;
+  text-decoration: none;
+  font-family: 'Montserrat', cursive;
+  font-size: 2rem;
+}
+.footer-linktext:hover {
+ background-color: #30e3cb;
+ color: #e4f9f5;
+}
+.mountain {
+  margin-bottom: 0;
+  height: 22rem;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.code-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.copy-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.footer-text {
+  color: #EAF6F6;
+  margin-top: 5rem;
+}
+.btn:hover {
+  background-color:#30e3cb;
+}
+.btn {
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 3rem;
+}
+.contact-message {
+  width:40%;
+  margin:40px auto 60px;
+
+}
